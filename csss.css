@@ -1,0 +1,50 @@
+body{
+    background: url(photo-1524072962259-04f23a9baa38.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	}
+
+/*display: flex; flex-wrap: wrap; justify-content: center;  */
+
+
+h1{
+    left: 0;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color: white;
+
+    transition: all 1s;
+	text-shadow: 0.2rem 0.2rem 0.2rem #FFFFFF;
+
+}
+
+
+
+.bu{
+  width: 180px;
+    display:block;
+    position:relative;
+    margin-top: 520px;
+    margin-left: 47%;
+    text-align: center;
+    height: auto;
+
+transition: all 1s;
+	box-shadow: 0.2rem 0.2rem 0.2rem #D59226;
+
+
+
+
+
+ background-color: orange; padding-bottom: 0.7rem; padding-top: 0.7rem; padding-left: 1rem; padding-right: 1rem; border-radius: 20px; }
+
+ .bu:hover{ transform: scale(1.1);
+
+
+
